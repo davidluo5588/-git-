@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/.idea/indexLayout.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/.gitignore
+/.idea/libraries/GdSdk.xml
